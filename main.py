@@ -41,4 +41,5 @@ olympic_rings.pencolor("purple")
 olympic_rings.write("Winter Olympics",font=("Ariel",24, "bold"),align="center")
 olympic_rings.write("2026",font=("Ariel",24, "bold"),align="center")
 
+
 turtle.done()
